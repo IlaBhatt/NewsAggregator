@@ -1,0 +1,15 @@
+# Build outputs
+dist/
+build/
+
+# Dependencies
+node_modules/
+
+# Coverage
+coverage/
+
+# Config files
+*.config.js
+*.config.cjs
+jest.config.cjs
+vite.config.ts
